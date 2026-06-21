@@ -3,11 +3,11 @@
 
 {{/* allow website developer to enforce default dark mode */}}
 {{- if eq $defaultColor "dark" -}}
-<html lang="{{ .Site.Language.Locale }}" class="dark">
+<html lang="en-gb" class="dark">
 {{- else if eq $defaultColor "light" -}}
-<html lang="{{ .Site.Language.Locale }}" class="light">
+<html lang="en-gb" class="light">
 {{- else -}}
-<html lang="{{ .Site.Language.Locale }}">
+<html lang="en-gb">
 {{- end -}}
 
 {{- partial "head.html" . -}}

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "19e43c4101de8c6b",
+        "id": "afb823e67e22eea1",
         "type": "tabs",
         "children": [
           {
-            "id": "230bec6f02e63597",
+            "id": "e7e715a4f6bf48df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/260621-where-is-my-unique-date.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "260621-where-is-my-unique-date"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 394.5
   },
   "right": {
     "id": "6bf54b1a55460d92",
@@ -158,34 +162,53 @@
       "switcher:Open quick switcher": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f184ecd725607d8a",
+  "active": "e7e715a4f6bf48df",
   "lastOpenFiles": [
-    "hugo-blog-awesome.work",
+    "images/260621-where-is-my-unique-date/260621-where-is-my-unique-date-03.webp",
+    "content/posts/260621-where-is-my-unique-date.md",
+    "images/260621-where-is-my-unique-date",
+    "images",
+    "content/posts/emoji-support.md",
+    "public/posts/index.xml",
+    "public/index.xml",
+    "public/tags/emoji/index.xml",
+    "public/tags/index.xml",
+    "public/pages/index.xml",
+    "public/categories/index.xml",
+    "public/tags/emoji/index.html",
+    "public/tags/index.html",
+    "public/icons/safari-pinned-tab.svg",
+    "public/icons/mstile-70x70.png",
+    "public/icons/mstile-310x310.png",
+    "public/icons/mstile-310x150.png",
+    "public/icons/mstile-150x150.png",
+    "public/icons/favicon.svg",
+    "public/icons/favicon-32x32.png",
+    "public/icons/favicon-16x16.png",
+    "public/icons/apple-touch-icon.png",
+    "content/en/pages/about.md",
+    "content/_index.md",
+    "content/posts/table-of-content.md",
+    "content/posts/_index.md",
+    "content/pages/about.md",
+    "content/en/_index.md",
+    "content/en/posts/_index.md",
+    "content/en/posts/table-of-content.md",
+    "content/en/posts/rich-content/index.md",
+    "content/en/posts/math-typesetting/index.md",
+    "content/en/posts/placeholder-text/index.md",
+    "content/en/posts/emoji-support.md",
+    "content/en/posts/markdown-syntax/index.md",
     "content/260613-test.md",
-    "public/tags/image/index.xml",
-    "public/tags/image/index.html",
-    "public/tags/image",
-    "content/260613-test.html",
-    "assets/images/260613-test/260613-test-04.webp",
-    "assets/images/260613-test/260613-test-02.webp",
-    "assets/images/260613-test/260613-test-01.webp",
-    "assets/images/260613-test/260613-test-03.webp",
-    "assets/images/260613-test",
     "templates/blog.md",
-    "public/260613-test/index.html",
-    "public/260613-test",
-    "assets/images/260613-test/260613-test-07.webp",
-    "assets/images/260613-test/260613-test-{counter_00X}.webp",
     "README.md",
     "content/260614-.md",
-    "templates",
     "content/202606130919.md",
     "archetypes/default.md",
-    "Untitled.md",
-    "assets/images"
+    "Untitled.md"
   ]
 }

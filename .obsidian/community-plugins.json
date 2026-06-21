@@ -8,5 +8,6 @@
   "obsidian-text-format",
   "image-converter",
   "obsidian-minimal-settings",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "obsidian-cloudinary-uploader"
 ]

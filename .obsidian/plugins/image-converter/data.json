@@ -15,7 +15,7 @@
     {
       "name": "Images by notename",
       "type": "CUSTOM",
-      "customTemplate": "assets/images/{notename}/"
+      "customTemplate": "images/{notename}/"
     }
   ],
   "selectedFolderPreset": "Images by notename",
